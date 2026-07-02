@@ -1,0 +1,2 @@
+# iOS_SpecLibrary
+用于存放iOS的组件库的podspec文件的仓库
